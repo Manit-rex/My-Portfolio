@@ -280,6 +280,23 @@ textarea {
   color: #000000;
 }
 
+.resume{
+  text-align: center;
+  background-color: #333;
+}
+
+.resumes{
+  padding: 10px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 18px;
+  color:whitesmoke;
+  box-shadow: 0px 0px 5px white;
+  background-color: orange;
+}
+
 @media screen and (max-width:910px) and (max-width:768px){
   body{
     width: 100%;
